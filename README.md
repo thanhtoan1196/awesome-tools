@@ -32,3 +32,6 @@ https://github.com/robbyrussell/oh-my-zsh
 
 Tmux  
 https://github.com/tmux/tmux
+
+Tint2
+http://www.noobslab.com/2011/12/install-light-weight-taskbar-tint2-for.html
